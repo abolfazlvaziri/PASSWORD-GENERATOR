@@ -15,7 +15,7 @@ In this tool, based on your information, we create a random and strong password 
 
 - **Installation & Usage**
 ```
-1. sudo git clone https://github.com/abolfazlvaziri/PASSWORD-GENERATOR.git
+1. git clone https://github.com/abolfazlvaziri/PASSWORD-GENERATOR.git
 2. cd PASSWORD-GENERATOR
 3. pip install -r requirements.txt
 4. python3 PASSWORD-GENERATOR.PY
