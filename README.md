@@ -24,4 +24,4 @@ In this tool, based on your information, we create a random and strong password 
 
 - **Contact To Me**
 - Instagram: https://instagram.com/abolfazlvaziriofficial
-- Telegram: https://t.me/abolfazlvaziriofficial
+- Telegram: https://t.me/AVN_COMMUNITY
